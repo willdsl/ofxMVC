@@ -1,4 +1,5 @@
 ofxMVC
 ======
 
-Simple Model-View-Controller base classes. Uses Boost for serialization and provides helpers for named properties (int, float, bool, char, ofPoint, ofRectangle), as well as several different View types (Quad, Bezier warp, FBO, etc). Requires ofxBoost and ofxLogger.
+ofxMVC is a collection of simple Model-View-Controller base classes that use Boost for serialization and provide helpers for named properties (int, float, bool, char, ofPoint, ofRectangle), as well as several different view types (Quad, Bezier warp, FBO). Usage of ofxMVC requires ofxBoost and ofxLogger.
+
